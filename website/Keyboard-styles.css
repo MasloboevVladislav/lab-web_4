@@ -1,0 +1,73 @@
+
+.Keyboard {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+/* флекс контейнеры -начало  */
+.Keyboard-1 {
+    display: flex;
+    background-color: rgb(0, 120, 181);
+    border: 2px solid black;
+    border-radius: 15px;
+    height: 250px;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 12px;
+    padding-left: 30px;
+    padding-right: 32px;
+    box-sizing: border-box ;
+}
+
+.Keyboard-2 {
+    display: flex;
+    background-color: rgb(0, 120, 181);
+    border: 2px solid black;
+    border-radius: 15px;
+    justify-content: center;
+    margin: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 12px;
+    padding-left: 30px;
+    padding-right: 32px;
+    box-sizing: border-box
+}
+
+.Keyboard-3 {
+    display: flex;
+    background-color: rgb(0, 120, 181);
+    border: 2px solid black;
+    border-radius: 15px;
+    margin: 30px;
+    flex-direction: column;
+    justify-content: space-between;
+    gap: 12px;
+    padding-left: 32px;
+    padding-right: 32px;
+    box-sizing: border-box
+}
+
+
+.images-keyboard-1 {
+    display: flex;
+    border-radius: 10%;
+    width: 150px;
+    height: 100px;
+    border: 2px solid black;
+
+}
+/* флекс контейнеры - конец   */
+.circle {
+    background: #456BD9;
+    border: 0.1875em solid #0F1C3F;
+    border-radius: 50%;
+    box-shadow: 0.375em 0.375em 0 0 rgba(15, 28, 63, 0.125);
+    height: 5em;
+    width: 5em;
+  }

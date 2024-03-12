@@ -1,0 +1,25 @@
+#game {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+}
+
+#board {
+    height: 300px;
+    width: 300px;
+    margin: auto;
+}
+
+.cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid #dc91fe;
+    box-sizing: border-box;
+    float: left;
+    font-size: 84px;
+}
+
+.btn {
+    margin: 10px 0;
+}

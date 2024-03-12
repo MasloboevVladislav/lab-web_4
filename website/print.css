@@ -1,0 +1,57 @@
+.main-text {
+
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
+
+.body {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color: #ffffff;
+    font-size: 40px;
+}
+
+.nav {
+    background-image: url('https://fons.pibig.info/uploads/posts/2023-05/1685507434_fons-pibig-info-p-gradientnii-fon-temnii-vkontakte-1.jpg');
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    background-repeat:no-repeat ;
+    background-size:200%;
+
+}
+.main-text{
+
+    margin-left: 200px; 
+    margin-right: 200px;
+    color: rgb(255, 255, 255);
+    background-size:100%;
+    background-repeat:no-repeat ;
+
+}
+
+.body {
+
+    text-align: center;
+    
+}
+
+.footer {
+    background-color: rgb(1, 154, 255)
+}
+.main-text-2{
+
+    margin-left: 200px; 
+    margin-right: 200px;
+}
+.images{
+
+text-align: center;
+}
+.switch-text{
+
+    margin-left: 150px; 
+    margin-right: 150px;
+}
